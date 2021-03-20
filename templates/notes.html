@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <title>Notes</title>
+    <style>
+        body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #345e5b;
+    }
+    h3{
+        text-align: center;
+        color: white;
+    }
+    div{
+        text-align: center;
+        color: white;
+    }
+    </style>
+</head>
+<body>
+    <h3>Notes: </h3>
+    {{ range. }}
+    <div>{{ . }}</div>
+    {{ end }}
+</body>
