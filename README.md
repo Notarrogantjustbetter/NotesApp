@@ -14,4 +14,4 @@
 
 # Info
 
-* This is a simple Notes application.Create account, add note, view notes, delete note.
+* Project "Take notes".
