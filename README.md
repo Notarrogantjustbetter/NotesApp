@@ -14,4 +14,4 @@
 
 # Info
 
-* Project "Take notes".
+* Create account, take notes, delete notes, view notes.
