@@ -14,4 +14,4 @@
 
 # Info
 
-* Create account, take notes, delete notes, view notes.
+* Create account, then you can add notes, view notes and delete notes.
